@@ -1,5 +1,10 @@
-## Next.js App Router Course - Starter
+## How It Works
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+This Next.js dashboard provides a modern interface for managing invoices and customers. Key features include:
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+- Invoice Management: Create, search, and view invoices with pagination support
+- Customer Tracking: Manage customer information and relationships
+- Responsive Design: Fully responsive layout that works on all devices
+- Authentication: Secure login system
+- Server Components: Optimized performance with Next.js App Router
+- Real-time Updates: Dynamic data loading with Suspense
